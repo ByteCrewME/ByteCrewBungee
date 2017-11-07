@@ -1,0 +1,2 @@
+# ByteCrewBungee
+The bungeecord plugin
